@@ -21,24 +21,7 @@ export default function Footer() {
         {/* Top Navigation Links */}
         <div className="border-b border-[#707070] pb-8 md:pb-10 mb-8 md:mb-12">
           <div className="flex flex-wrap justify-center items-center gap-x-0">
-            <a
-              href="#"
-              className="font-plus-jakarta text-[16px] font-medium text-[#1D1D1D] hover:text-[#D09163] transition-colors px-4 py-[11.2px] leading-[16px]"
-            >
-              Ways to Pay
-            </a>
-            <a
-              href="#"
-              className="font-plus-jakarta text-[16px] font-medium text-[#1D1D1D] hover:text-[#D09163] transition-colors px-4 py-[11.2px] leading-[16px]"
-            >
-              Important Information for International Students
-            </a>
-            <a
-              href="#"
-              className="font-plus-jakarta text-[16px] font-medium text-[#1D1D1D] hover:text-[#D09163] transition-colors px-4 py-[11.2px] leading-[16px]"
-            >
-              Student Accommodation
-            </a>
+        
             <a
               href="#"
               className="font-plus-jakarta text-[16px] font-medium text-[#1D1D1D] hover:text-[#D09163] transition-colors px-4 py-[11.2px] leading-[16px]"
